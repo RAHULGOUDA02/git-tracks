@@ -1,6 +1,2 @@
 test.txt
-Hi 
-Hello
-nice to meet 
-you
-bye
+Hi
